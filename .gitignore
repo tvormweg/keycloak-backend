@@ -58,6 +58,6 @@ typings/
 .env
 
 # transpiled sources
-src/
+# src/
 
 .DS_Store
